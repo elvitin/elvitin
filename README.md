@@ -4,6 +4,23 @@ Look in: [English](/README_en.md) | Português
 
 Sou um curioso que gosta de programas de computadores, sempre buscando aprender, gosta de explorar ferramentas e criar coisas 🚀🚀, aqui estão alguns dos meus projetos:
 
+<br/>
+<p align="center"> 
+  <b> 
+    <a href="https://github.com/elvitin/bidirecional-unix-chat" target="_blank">Bidirecional Unix Chat</a>
+  </b>
+</p>
+
+Um chat de texto escrito em [C](https://en.wikipedia.org/wiki/C_(programming_language)), que utiliza [Socket Unix](https://en.wikipedia.org/wiki/Unix_domain_socket) (baseado em arquivo) como forma de [comunicação interprocesso (IPC)](https://en.wikipedia.org/wiki/Inter-process_communication).
+
+<details>
+<summary>👈🏽 <strong>Prévia</strong></summary>
+  <br />
+  <div align="center">
+    <img src="./images/bidirecional-unix-chat.gif">
+  </div>
+</details>
+
 
 <br/>
 <p align="center"> 
