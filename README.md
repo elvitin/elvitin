@@ -7,6 +7,23 @@ Sou um curioso que gosta de programas de computadores, sempre buscando aprender,
 <br/>
 <p align="center"> 
   <b> 
+    <a href="https://github.com/elvitin/ezychat" target="_blank">EzyChat (Em progresso)</a>
+  </b>
+</p>
+
+Um chat multi-usuários escrito em [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) e tem [JavaFx](https://en.wikipedia.org/wiki/JavaFX) como tecnologia GUI, fortemente baseada no WhatsApp. Essa aplicação explora uma série de recursos e técnicas. O servidor tem como requisito essencial o uso de [multithreading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)) usando [Threads Java](https://en.wikipedia.org/wiki/Java_concurrency), isso para permitir várias linhas de execução paralelas, uma para cada cliente conectado. A comunicação se da exclusivamente sobre o protocolo [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) da camada de transporte, ou seja, o protocolo subjacente da camada de aplicação é a propria aplicação fazendo o uso do [protobuf](https://en.wikipedia.org/wiki/Protocol_Buffers) para serialização e desserialização dos dados.
+
+<details>
+<summary>👈🏽 <strong>Prévia</strong></summary>
+  <br />
+  <div align="center">
+    <img src="./images/ezychat.png">
+  </div>
+</details>
+
+<br/>
+<p align="center"> 
+  <b> 
     <a href="https://github.com/elvitin/bidirecional-unix-chat" target="_blank">Bidirecional Unix Chat</a>
   </b>
 </p>
@@ -29,7 +46,7 @@ Um chat de texto escrito em [C](https://en.wikipedia.org/wiki/C_(programming_lan
   </b>
 </p>
 
-Uma simples página HTML, CSS com Vanilla Js, que faz leitura des arquivos de Nota Fiscal eletrônica
+Uma simples página HTML, CSS com Vanilla Js, que faz leitura de arquivos de Nota Fiscal Eletrônica
 
 <details>
 <summary>👈🏽 <strong>Prévia</strong></summary>
@@ -56,5 +73,3 @@ Uma ferramenta que criptografa e descriptografa um texto qualquer, desenvolvida 
     <img src="./images/one-crypter-phone-sample-cropped.png" width="21.5%">
   </div>
 </details>
-
-
