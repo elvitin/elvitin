@@ -2,7 +2,7 @@ Look in: [English](/README_en.md) | Português
 
 <h1> Opa, eai... </h1>
 
-Sou um curioso que gosta de programas de computadores, sempre buscando aprender, gosta de explorar ferramentas e criar coisas 🚀🚀, aqui estão algumas das minhas brincadeiras:
+Sou um curioso que gosta de programas de computadores, gosto de explorar ferramentas e criar coisas a maioria das vezes só por hobby, aqui estão algumas das minhas brincadeiras:
 
 <br/>
 <p align="center"> 
